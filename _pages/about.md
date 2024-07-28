@@ -19,23 +19,29 @@ redirect_from:
 
 I am a second-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
-I am currently working as a research intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of INVERSE ENTROPY(逆熵) AI Group under the mentorship of .. .
+I am currently a research intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY(逆熵) AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu(高信龙一)](https://truthless11.github.io/).
+
+Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on language model alignment and role-playing dialogues under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
+
+🤔 My major research interests are about **dialog systems**, **LLM-as-a-judge** and **superalignment**, and I am actively exploring practical implementations and academic research in these areas ...
 
 # 📝 Publications 
+  
+**(∗ = equal contribution)**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ``EMNLP 2023`` [G-SPEED: General SParse Efficient Editing MoDel](https://aclanthology.org/2023.findings-emnlp.142.pdf), **Haoke Zhang**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang | **[GitHub](https://github.com/Banner-Z/G-SPEED)**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- ``Submission to SCIS`` [Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging](https://arxiv.org/pdf/2405.12163), Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang | **[GitHub](https://github.com/dropreg/Fennec)**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- ``Submission to NIPS 2024`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- ``Submission to ARR`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💻 Internships
+
+- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai | AI-driven UGC games
+
+- *2023.11 - 2024.03*, [Baidu Inc(https://home.baidu.com/)], [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing | language model alignment & role-playing dialogues
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,6 +54,3 @@ I am currently working as a research intern at [miHoYo(米哈游)](https://www.m
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
