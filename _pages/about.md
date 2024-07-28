@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
-I am currently a research intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY(逆熵) AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu(高信龙一)](https://truthless11.github.io/).
+I am currently an algorithm intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY(逆熵) AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu(高信龙一)](https://truthless11.github.io/).
 
 Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on language model alignment and role-playing dialogues under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
@@ -39,18 +39,21 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 # 💻 Internships
 
-- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai | AI-driven UGC games
+- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai | AI-driven UGC games 🎮
 
-- *2023.11 - 2024.03*, [Baidu Inc(https://home.baidu.com/)], [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing | language model alignment & role-playing dialogues
+- *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing | language model alignment & role-playing dialog system 🤖  
+  *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Zhejiang Provincial Government Scholarship 
+- 🥇 LanqiaoCup Programming Competition - First Prize (National Level, Individual Competition)
+- 🥈 Computer Design Competition of China - Second Prize (National Level, Artificial Intelligence Track)
+- 🥉 Software Innovation and Entrepreneurship Competition of China - Third Prize (National Level)
+- 🥇 Securities Investment Competition of Zhejiang Province - First Prize (Provincial Level, Quantitative Trading Track)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou. 
+- *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🎁 Miscellaneous
+This guy enjoys running 🏃‍♂️ and hiking ⛰, having completed the Suzhou Half Marathon twice 🐱‍🏍. He finds pleasure in the melodies of Pink Floyd 🎸, yet when he's on the run, his playlist shifts to feature a heavier rotation of tracks by Eason Chan and Imagine Dragons. He's a fan of the Liverpool Football Club ⚽ and also a follower of the tennis great, Roger Federer 🎾. His Zenless Zone Zero id number is 24564956 🎮.
