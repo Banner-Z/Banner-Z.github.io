@@ -56,4 +56,4 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
 # 🎁 Miscellaneous
-This guy enjoys running 🏃‍♂️ and hiking ⛰, having completed the Suzhou Half Marathon twice 🐱‍🏍. He finds pleasure in the melodies of Pink Floyd 🎸, yet when he's on the run, his playlist shifts to feature a heavier rotation of tracks by Eason Chan and Imagine Dragons. He's a fan of the Liverpool Football Club ⚽ and also a follower of the tennis great, Roger Federer 🎾. His Zenless Zone Zero id number is 24564956 🎮.
+This guy enjoys running 🏃‍♂️ and hiking ⛰, having completed the Suzhou Half Marathon twice 🐱‍🏍. He finds pleasure in the melodies of Pink Floyd 🎸, Omnipotent Youth Society 🎺, and Eason Chan. He's a fan of the Liverpool Football Club 🔴⚽ and also a follower of the tennis great, Roger Federer 🎾. His Zenless Zone Zero id number is 24564956 🎮.
