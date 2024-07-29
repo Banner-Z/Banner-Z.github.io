@@ -29,9 +29,9 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
   
 **(∗ = equal contribution)**
 
-- ``EMNLP 2023`` [G-SPEED: General SParse Efficient Editing MoDel](https://aclanthology.org/2023.findings-emnlp.142.pdf), **Haoke Zhang**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang | **[GitHub](https://github.com/Banner-Z/G-SPEED)**
+- ``EMNLP 2023`` **Haoke Zhang∗**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang. **G-SPEED: General SParse Efficient Editing MoDel**. *Findings of the Association for Computational Linguistics: EMNLP 2023.* [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
 
-- ``Submission to SCIS`` [Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging](https://arxiv.org/pdf/2405.12163), Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang | **[GitHub](https://github.com/dropreg/Fennec)**
+- ``Submission to SCIS`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
 - ``Submission to NIPS 2024`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
@@ -39,9 +39,11 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 # 💻 Internships
 
-- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai | AI-driven UGC games 🎮
+- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
+  AI-driven UGC games 🎮
 
-- *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing | language model alignment & role-playing dialog system 🤖  
+- *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
+  language model alignment 🔁 & role-playing dialog system 🤖  
   *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
 # 🎖 Honors and Awards
