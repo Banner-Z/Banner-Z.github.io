@@ -43,18 +43,25 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
   AI-driven UGC games 🎮
 
 - *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
-  language model alignment 🔁 & role-playing dialog system 🤖  
+  language model alignment 🔁, role-playing dialog system 🤖  
   *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
 # 🎖 Honors and Awards
-- Zhejiang Provincial Government Scholarship 
+
+- Zhejiang Provincial Government Scholarship
+- 
 - 🥇 LanqiaoCup Programming Competition - First Prize (National Level, Individual Competition)
+- 
 - 🥈 Computer Design Competition of China - Second Prize (National Level, Artificial Intelligence Track)
+- 
 - 🥉 Software Innovation and Entrepreneurship Competition of China - Third Prize (National Level)
+- 
 - 🥇 Securities Investment Competition of Zhejiang Province - First Prize (Provincial Level, Quantitative Trading Track)
 
 # 📖 Educations
-- *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou. 
+
+- *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- 
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
 # 🎁 Miscellaneous
