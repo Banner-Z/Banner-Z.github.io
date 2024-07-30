@@ -49,19 +49,19 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 # 🎖 Honors and Awards
 
 - Zhejiang Provincial Government Scholarship
-- 
+
 - 🥇 LanqiaoCup Programming Competition - First Prize (National Level, Individual Competition)
-- 
+
 - 🥈 Computer Design Competition of China - Second Prize (National Level, Artificial Intelligence Track)
-- 
+
 - 🥉 Software Innovation and Entrepreneurship Competition of China - Third Prize (National Level)
-- 
+
 - 🥇 Securities Investment Competition of Zhejiang Province - First Prize (Provincial Level, Quantitative Trading Track)
 
 # 📖 Educations
 
 - *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
-- 
+
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
 # 🎁 Miscellaneous
