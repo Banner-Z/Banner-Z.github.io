@@ -25,6 +25,8 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 🤔 My major research interests are about **dialog systems**, **LLM-as-a-judge** and **superalignment**, and I am actively exploring practical implementations and academic research in these areas ...
 
+🤝 **I am looking for the campus recruitment position in 2024 Fall. Don’t hesitate to email me if there is a potential opportunity!**
+
 # 📝 Publications 
   
 **(∗ = equal contribution)**
