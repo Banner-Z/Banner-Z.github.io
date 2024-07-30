@@ -41,7 +41,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 # 💻 Internships
 
-- *2024.06 - current*, [miHoYo](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
+- *2024.06 - current*, [miHoYo Inc](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
   AI-driven UGC games 🎮
 
 - *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
