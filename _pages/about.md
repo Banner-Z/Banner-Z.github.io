@@ -25,7 +25,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 🤔 My major research interests are about **dialog systems**, **LLM-as-a-judge** and **superalignment**, and I am actively exploring practical implementations and academic research in these areas ...
 
-🤝 **I am looking for the campus recruitment position in 2024 Fall. Don’t hesitate to email me if there is a potential opportunity!**
+🤝 **I am looking for campus recruitment positions for Fall 2024. Don’t hesitate to email me if there is a potential opportunity!**
 
 # 📝 Publications 
   
@@ -45,7 +45,8 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
   AI-driven UGC games 🎮
 
 - *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
-  language model alignment 🔁, role-playing dialog system 🤖  
+  language model alignment 🔁, role-playing dialog system 🤖
+  
   *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
 # 🎖 Honors and Awards
