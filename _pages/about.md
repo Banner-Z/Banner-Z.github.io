@@ -37,7 +37,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 - ``Submission to NIPS 2024`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
-- ``Submission to ARR`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
+- ``Submission to AAAI 2025`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
 
 # 💻 Internships
 
