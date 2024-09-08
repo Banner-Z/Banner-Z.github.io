@@ -45,7 +45,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
   AI-driven UGC games
 
 - *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
-  Dialog Evaluation and Correction
+  dialog evaluation and correction
   
   *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
