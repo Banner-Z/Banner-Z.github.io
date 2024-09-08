@@ -21,7 +21,7 @@ I am a second-year master’s student at the Artificial Intelligence Research In
 
 I am currently an algorithm intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY(逆熵) AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu(高信龙一)](https://truthless11.github.io/).
 
-Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on language model alignment and role-playing dialogues under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
+Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
 🤔 My major research interests are about **dialog systems**, **LLM-as-a-judge** and **superalignment**, and I am actively exploring practical implementations and academic research in these areas ...
 
@@ -42,10 +42,10 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 # 💻 Internships
 
 - *2024.06 - current*, [miHoYo Inc](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
-  AI-driven UGC games 🎮
+  AI-driven UGC games
 
 - *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
-  language model alignment 🔁, role-playing dialog system 🤖
+  dialog evaluation and correction
   
   *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
 
