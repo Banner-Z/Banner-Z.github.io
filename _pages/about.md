@@ -35,7 +35,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 - ``Submission to SCIS`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
-- ``Submission to NIPS 2024`` Efficient Evaluation of LLMs via Branching Preference Learning.
+- ``Submission to ARR`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
 - ``Submission to AAAI 2025`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
 
