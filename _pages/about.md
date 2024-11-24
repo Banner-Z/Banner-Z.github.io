@@ -23,7 +23,7 @@ I am currently an algorithm intern at [miHoYo(米哈游)](https://www.mihoyo.com
 
 Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
-🤔 My major research interests are about **dialog systems**, **LLM-as-a-judge** and **superalignment**, and I am actively exploring practical implementations and academic research in these areas ...
+🤔 My major research interests are about **large language models**, **dialog systems** and **LLM-as-a-judge**, and I am actively exploring practical implementations and academic research in these areas ...
 
 🤝 **I am looking for campus recruitment positions for Fall 2024. Don’t hesitate to email me if there is a potential opportunity!**
 
@@ -37,7 +37,7 @@ Before this, I worked as an algorithm intern at [Baidu(百度) Ernie Bot(文心�
 
 - ``Submission to ARR`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
-- ``Submission to AAAI 2025`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
+- ``Submission to ARR`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
 
 # 💻 Internships
 
