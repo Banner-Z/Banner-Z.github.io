@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a last-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
+I am a last-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
-I was a research intern at [miHoYo(米哈游)](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY(逆熵) AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu(高信龙一)](https://truthless11.github.io/).
+I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
 
-Before this, I worked as an intern at [Baidu(百度) Ernie Bot(文心一言)](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu(徐俊)](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
+Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
 🤔 My major research interests are about **post training** and **reward modeling**.
 
@@ -33,11 +33,11 @@ Before this, I worked as an intern at [Baidu(百度) Ernie Bot(文心一言)](ht
 
 - ``EMNLP 2023`` **Haoke Zhang∗**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang. **G-SPEED: General SParse Efficient Editing MoDel**. *Findings of the Association for Computational Linguistics: EMNLP 2023.* [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
 
-- ``Submission to SCIS`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
-
 - ``Submission to ARR`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
 - ``Submission to ARR`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
+
+- ``Arxiv`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
 # 💻 Internships
 
