@@ -19,8 +19,9 @@ redirect_from:
 
 I am a last-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
-I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
+At present, I am working as a research intern at [Zhipu AI](https://www.zhipuai.cn) under the mentorship of [Cunxiang Wang](https://wangcunxiang.github.io).
 
+I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
 Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
 🤔 My major research interests are about **post training** and **reward modeling**.
@@ -40,6 +41,8 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 - ``Arxiv`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
 # 💻 Internships
+
+- *2025.03 - current*, [Zhipu AI](https://www.zhipuai.cn), Beijing
 
 - *2024.06 - 2024.11*, [miHoYo Inc](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
   AI-driven UGC games
@@ -68,4 +71,4 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
 # 🎁 Miscellaneous
-This guy enjoys running and hiking , having completed the Suzhou Half Marathon twice 🏃‍♂️. He's a fan of the Liverpool Football Club 🔴⚽ and also a follower of the tennis great, Roger Federer 🎾. He finds pleasure in the melodies of Pink Floyd, Omnipotent Youth Society, and Eason Chan 🎶.
+This guy enjoys running and hiking, having completed the Suzhou Half Marathon twice 🏃‍♂️. He's a fan of the Liverpool Football Club 🔴⚽ and also a follower of the tennis great, Roger Federer 🎾. He finds pleasure in the melodies of Pink Floyd, Omnipotent Youth Society, and Eason Chan 🎶.
