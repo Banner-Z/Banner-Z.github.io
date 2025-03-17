@@ -21,7 +21,7 @@ I am a last-year master’s student at the Artificial Intelligence Research Inst
 
 At present, I am working as a research intern at [Zhipu AI](https://www.zhipuai.cn) under the mentorship of [Cunxiang Wang](https://wangcunxiang.github.io).
 
-I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of **INVERSE ENTROPY AI Group**, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
+I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of INVERSE ENTROPY AI Group, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
 Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
 🤔 My major research interests are about **post training** and **reward modeling**.
@@ -34,9 +34,9 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
 - ``EMNLP 2023`` **Haoke Zhang∗**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang. **G-SPEED: General SParse Efficient Editing MoDel**. *Findings of the Association for Computational Linguistics: EMNLP 2023.* [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
 
-- ``Submission to ARR`` Efficient Evaluation of LLMs via Branching Preference Learning.
+- ``Submission to ACL2025`` Efficient Evaluation of LLMs via Branching Preference Learning.
 
-- ``Submission to ARR`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
+- ``Submission to ACL2025`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
 
 - ``Arxiv`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
