@@ -52,7 +52,7 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
   **Haoke Zhang∗**, Yue Wang∗, Juntao Li, Xiabing Zhou, Min Zhang. [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
 
-- ``Arxiv`` **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**.
+- ``Arxiv`` **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**
 
   Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li, Jun Xu, Min Zhang. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
