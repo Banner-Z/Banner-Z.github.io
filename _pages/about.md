@@ -28,17 +28,33 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
 📫 Email: hkzhangnlp AT stu.suda.edu.cn
 
+# 🔥News
+
+- 2025.05. Three papers are accepted by ACL 2025 🎉
+
 # 📝 Publications 
   
-**(∗ = equal contribution)**
+(∗ = equal contribution)
 
-- ``EMNLP 2023`` **Haoke Zhang∗**, Yue Wang∗, Juntao Li†, Xiabing Zhou, Min Zhang. **G-SPEED: General SParse Efficient Editing MoDel**. *Findings of the Association for Computational Linguistics: EMNLP 2023.* [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
+- ``ACL 2025`` **Unlocking Recursive Thinking of LLMs: Alignment via Refinement**
 
-- ``Submission to ACL2025`` Efficient Evaluation of LLMs via Branching Preference Learning.
+  **Haoke Zhang∗**, Xiaobo Liang∗, Cunxiang Wang, Juntao Li, Min Zhang. [[code]](https://github.com/Banner-Z/ASCENT)
 
-- ``Submission to ACL2025`` A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation.
+- ``ACL 2025`` **Generative Reward Modeling via Synthetic Criteria Preference Learning**
 
-- ``Arxiv`` Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li†, Jun Xu, Min Zhang. **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
+  Xiaobo Liang∗, **Haoke Zhang∗**, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang. [[code]](https://github.com/dropreg/Fennec)
+
+- ``ACL 2025`` **A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation**
+
+  Yue Wang∗, **Haoke Zhang∗**, Juntao Li, Jinxiong Chang, Min Zhang.
+
+- ``EMNLP 2023`` **G-SPEED: General SParse Efficient Editing MoDel**
+
+  **Haoke Zhang∗**, Yue Wang∗, Juntao Li, Xiabing Zhou, Min Zhang. [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
+
+- ``Arxiv`` **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**.
+
+  Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li, Jun Xu, Min Zhang. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
 # 💻 Internships
 
