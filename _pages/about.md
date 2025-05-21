@@ -24,7 +24,7 @@ At present, I am working as a research intern at [Zhipu AI](https://www.zhipuai.
 I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of INVERSE ENTROPY AI Group, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
 Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
 
-🤔 My major research interests are about **evaluation**, **post training** and **reward modeling**.
+🤔 My major research interests are about **evaluation**, **agent** and **post training**.
 
 📫 Email: hkzhangnlp AT stu.suda.edu.cn
 
