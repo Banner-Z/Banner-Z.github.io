@@ -42,7 +42,7 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
 - ``ACL 2025`` **Generative Reward Modeling via Synthetic Criteria Preference Learning**
 
-  Xiaobo Liang∗, **Haoke Zhang∗**, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang. [[code]](https://github.com/dropreg/Fennec)
+  Xiaobo Liang∗, **Haoke Zhang**, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang. [[code]](https://github.com/dropreg/Fennec)
 
 - ``ACL 2025`` **A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation**
 
