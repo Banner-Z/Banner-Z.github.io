@@ -17,16 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a last-year master’s student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
-
-At present, I am working as a research intern at [Zhipu AI](https://www.zhipuai.cn) under the mentorship of [Cunxiang Wang](https://wangcunxiang.github.io).
-
-I was a research intern at [miHoYo](https://www.mihoyo.com/) as a part of INVERSE ENTROPY AI Group, focusing on AI-driven UGC games under the mentorship of [Ryuichi Takanobu](https://truthless11.github.io/).
-Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/), focusing primarily on dialog evaluation and correction under the mentorship of [Jun Xu](https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ).
+I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working with [Dr. Cunxiang Wang](https://wangcunxiang.github.io). Before that, I received M.S from the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
 🤔 My major research interests are about **evaluation**, **agent** and **post training**.
 
-📫 Email: hkzhangnlp AT stu.suda.edu.cn
+📫 Email: hkzhangnlp AT 163.com
 
 # 🔥News
 
@@ -56,17 +51,13 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
   Xiaobo Liang∗, **Haoke Zhang∗**, Helan hu, Juntao Li, Jun Xu, Min Zhang. [[pdf]](https://arxiv.org/pdf/2405.12163) [[code]](https://github.com/dropreg/Fennec)
 
-# 💻 Internships
+# 💻 Experience
 
-- *2025.03 - current*, [Zhipu AI](https://www.zhipuai.cn), Beijing
+- *2025.03 - current*, NLP Researcher, Zhipu AI, Beijing, with [Dr. Cunxiang Wang](https://wangcunxiang.github.io)
 
-- *2024.06 - 2024.11*, [miHoYo Inc](https://www.mihoyo.com/), [Lumi(yoyo鹿鸣)](https://space.bilibili.com/488836173/), Shanghai  
-  AI-driven UGC games
+- *2024.06 - 2024.11*, NLP Research Intern, Anti-Entropy (逆熵) AI, miHoYo Inc, Shanghai, with [Ryuichi Takanobu](https://truthless11.github.io/) and [Jiaan Wang](https://wangjiaan.cn/)
 
-- *2023.11 - 2024.03*, [Baidu Inc](https://home.baidu.com/), [Ernie Bot(文心一言)](https://yiyan.baidu.com/), Beijing  
-  dialog evaluation and correction
-  
-  *Our AI-driven UGC digital human are already online in the Ernie's mobile app ~*
+- *2023.11 - 2024.03*, Ernie Bot (文心一言), Baidu Inc, Beijing, with [Dr. Jun Xu]([https://scholar.google.com/citations?hl=zh-CN&user=uGy95bgAAAAJ](https://openreview.net/profile?id=~Jun_Xu9)
 
 # 🎖 Honors and Awards
 
@@ -82,7 +73,7 @@ Before this, I worked as an intern at [Baidu Ernie Bot](https://yiyan.baidu.com/
 
 # 📖 Educations
 
-- *2022.09 - current*, Last-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2022.09 - 2025.06*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
 
