@@ -57,7 +57,7 @@ I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working w
 
 - *2024.06 - 2024.11*, NLP Research Intern, Anti-Entropy (逆熵) AI, miHoYo Inc, Shanghai, with [Ryuichi Takanobu](https://truthless11.github.io/) and [Jiaan Wang](https://wangjiaan.cn/)
 
-- *2023.11 - 2024.03*, Ernie Bot (文心一言), Baidu Inc, Beijing, with [Dr. Jun Xu](https://openreview.net/profile?id=~Jun_Xu9)
+- *2023.11 - 2024.03*, NLP Research Intern, Ernie Bot (文心一言), Baidu Inc, Beijing, with [Dr. Jun Xu](https://openreview.net/profile?id=~Jun_Xu9)
 
 # 🎖 Honors and Awards
 
