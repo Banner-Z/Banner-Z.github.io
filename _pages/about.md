@@ -33,19 +33,19 @@ I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working w
 
 - ``ACL 2025`` **Unlocking Recursive Thinking of LLMs: Alignment via Refinement**
 
-  **Haoke Zhang**, Xiaobo Liang, Cunxiang Wang, Juntao Li, Min Zhang. [[pdf]](https://arxiv.org/abs/2506.06009) [[code]](https://github.com/Banner-Z/ASCENT)
+  **Haoke Zhang**, Xiaobo Liang, Cunxiang Wang, Juntao Li, Min Zhang. [[pdf]](https://aclanthology.org/2025.findings-acl.582/) [[code]](https://github.com/Banner-Z/AvR.git)
 
 - ``ACL 2025`` **Generative Reward Modeling via Synthetic Criteria Preference Learning**
 
-  Xiaobo Liang, **Haoke Zhang**, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang. [[code]](https://github.com/dropreg/Fennec)
+  Xiaobo Liang, **Haoke Zhang**, Juntao Li, Kehai Chen, Qiaoming Zhu, Min Zhang. [[pdf]](https://aclanthology.org/2025.acl-long.1297/)
 
 - ``ACL 2025`` **A<sup>3</sup>: Automatic Alignment Framework for Attributed Text Generation**
 
-  Yue Wang∗, **Haoke Zhang∗**, Juntao Li, Jinxiong Chang, Min Zhang.
+  Yue Wang∗, **Haoke Zhang∗**, Juntao Li, Jinxiong Chang, Min Zhang. [[pdf]](https://aclanthology.org/2025.acl-long.1407/)
 
 - ``EMNLP 2023`` **G-SPEED: General SParse Efficient Editing MoDel**
 
-  **Haoke Zhang∗**, Yue Wang∗, Juntao Li, Xiabing Zhou, Min Zhang. [[pdf]](https://aclanthology.org/2023.findings-emnlp.142.pdf) [[code]](https://github.com/Banner-Z/G-SPEED)
+  **Haoke Zhang∗**, Yue Wang∗, Juntao Li, Xiabing Zhou, Min Zhang. [[pdf]](https://aclanthology.org/2023.findings-emnlp.142/) [[code]](https://github.com/Banner-Z/G-SPEED)
 
 - ``Arxiv`` **Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**
 
