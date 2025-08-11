@@ -24,12 +24,14 @@ I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working w
 📫 Email: hkzhangnlp AT 163.com
 
 # 🔥News
-
+- 2025.08. GLM-4.5 is released 🎉 [[Our tech report]](https://www.arxiv.org/pdf/2508.06471)
 - 2025.05. Three papers are accepted by ACL 2025 🎉
 
 # 📝 Publications 
   
 (∗ = equal contribution)
+
+- ``Tech Report`` **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models** [[model]](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) [[report]](https://www.arxiv.org/pdf/2508.06471)
 
 - ``ACL 2025`` **Unlocking Recursive Thinking of LLMs: Alignment via Refinement**
 
