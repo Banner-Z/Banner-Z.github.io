@@ -33,6 +33,8 @@ I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working w
 
 - ``Tech Report`` **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models** [[model]](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) [[report]](https://www.arxiv.org/pdf/2508.06471)
 
+  **GLM-4.5 Team** *(Zhipu AI & Tsinghua University)*
+
 - ``ACL 2025`` **Unlocking Recursive Thinking of LLMs: Alignment via Refinement**
 
   **Haoke Zhang**, Xiaobo Liang, Cunxiang Wang, Juntao Li, Min Zhang. [[pdf]](https://aclanthology.org/2025.findings-acl.582/) [[code]](https://github.com/Banner-Z/AvR.git)
