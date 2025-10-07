@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a NLP researcher at [Zhipu AI](https://www.zhipuai.cn), working with [Dr. Cunxiang Wang](https://wangcunxiang.github.io). Before that, I received M.S from the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
+I am currently a NLP researcher at [Zhipu AI](https://chat.z.ai), working with [Dr. Cunxiang Wang](https://wangcunxiang.github.io). Before that, I received M.S from the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
 🤔 My major research interests are about **evaluation**, **agent** and **post training**.
 
 📫 Email: hkzhangnlp AT 163.com
 
 # 🔥News
-- 2025.08. GLM-4.5 is released 🎉 [[Our tech report]](https://www.arxiv.org/pdf/2508.06471)
+- 2025.09. GLM-4.6 is released 🍻 [[blog]](https://z.ai/blog/glm-4.6)
+- 2025.07. GLM-4.5 is released 🎉 [[Our tech report]](https://www.arxiv.org/pdf/2508.06471)
 - 2025.05. Three papers are accepted by ACL 2025 🎉
 
 # 📝 Publications 
