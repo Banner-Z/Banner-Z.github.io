@@ -76,11 +76,5 @@ I am currently a NLP researcher at [Zhipu AI](https://chat.z.ai), working with [
 
 - 🥇 Securities Investment Competition of Zhejiang Province - First Prize (Provincial Level, Quantitative Trading Track)
 
-# 📖 Educations
-
-- *2022.09 - 2025.06*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
-
-- *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Zhejiang Normal University, Jinhua. 
-
 # 🎁 Miscellaneous
 This guy enjoys running and hiking, having completed the Suzhou Half Marathon twice 🏃‍♂️. He's a fan of the Liverpool Football Club 🔴⚽ and also a follower of the tennis great, Roger Federer 🎾. He finds pleasure in the melodies of Pink Floyd, Omnipotent Youth Society, and Eason Chan 🎶.
