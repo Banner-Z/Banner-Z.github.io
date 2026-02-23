@@ -24,6 +24,7 @@ I am currently a NLP researcher at [Zhipu AI](https://chat.z.ai), working with [
 📫 Email: hkzhangnlp AT 163.com
 
 # 🔥News
+- 2026.02. GLM-5 is released!! [[Our tech report]](https://arxiv.org/pdf/2602.15763)
 - 2025.09. GLM-4.6 is released 🍻 [[blog]](https://z.ai/blog/glm-4.6)
 - 2025.07. GLM-4.5 is released 🎉 [[Our tech report]](https://www.arxiv.org/pdf/2508.06471)
 - 2025.05. Three papers are accepted by ACL 2025 🎉
@@ -31,10 +32,13 @@ I am currently a NLP researcher at [Zhipu AI](https://chat.z.ai), working with [
 # 📝 Publications 
   
 (∗ = equal contribution)
-
+- ``Tech Report`` **GLM-5: from Vibe Coding to Agentic Engineering** [[model]](https://huggingface.co/collections/zai-org/glm-5) [[report]](https://arxiv.org/pdf/2602.15763)
+  
+  **<u>Core Contributor∗</u>** *(Zhipu AI & Tsinghua University)*
+  
 - ``Tech Report`` **GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models** [[model]](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) [[report]](https://www.arxiv.org/pdf/2508.06471)
 
-  **GLM-4.5 Team** *(Zhipu AI & Tsinghua University)*
+  Contributor∗ *(Zhipu AI & Tsinghua University)*
 
 - ``ACL 2025`` **Unlocking Recursive Thinking of LLMs: Alignment via Refinement**
 
